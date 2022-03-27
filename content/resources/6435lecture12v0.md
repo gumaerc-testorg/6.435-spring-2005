@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0241eb15-cf5c-4349-191e-9748904a9f95
 resourcetype: Other
 title: 6435Lecture12v0.ppt
 uid: 46cb1508-4dee-a44a-cfca-64cdfdf20973
