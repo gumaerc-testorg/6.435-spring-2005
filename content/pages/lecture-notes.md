@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes lists the lecture files as per the topics covered in the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Review of Linear Systems, Review of Stochastic Processes, Defining a General Framework ([PDF]({{< baseurl >}}/resources/lec1_6_435))
+Review of Linear Systems, Review of Stochastic Processes, Defining a General Framework ({{% resource_link f42908f6-feef-1403-67a3-028af8512a6f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Review of Linear Systems, Review of Stochastic Processes, Defining a General Fra
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Introductory Examples for System Identification ([PDF]({{< baseurl >}}/resources/lec2_6_435))
+Introductory Examples for System Identification ({{% resource_link dbf16370-0751-57ac-2320-a858d365b9e8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ Introductory Examples for System Identification (cont.)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Nonparametric Identification ([PDF]({{< baseurl >}}/resources/lec3_6_435))
+Nonparametric Identification ({{% resource_link f8c4d890-b96b-4bb6-482e-461080299e23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Nonparametric Identification (cont.)
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Input Design, Persistence of Excitation, Pseudo-random Sequences ([PDF]({{< baseurl >}}/resources/lec4_6_435))
+Input Design, Persistence of Excitation, Pseudo-random Sequences ({{% resource_link ffdd1299-a755-458f-8b99-0bf3f8de8d20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Input Design, Persistence of Excitation, Pseudo-random Sequences (cont.)
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Least Squares, Statistical Properties ([PDF]({{< baseurl >}}/resources/lec5_6_435))
+Least Squares, Statistical Properties ({{% resource_link bfceec15-7a14-875a-c1d4-66c02cde7926 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Least Squares, Statistical Properties (cont.)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Parametrized Model Structures, One-step Predictor, Identifiability ([PDF]({{< baseurl >}}/resources/lec6_6_435))
+Parametrized Model Structures, One-step Predictor, Identifiability ({{% resource_link 3cd2a84f-8e64-c60f-ae99-b9c09f342b86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +135,7 @@ Parametrized Model Structures, One-step Predictor, Identifiability (cont.)
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Parameter Estimation Methods, Minimum Prediction Error Paradigm, Maximum Likelihood ([PDF]({{< baseurl >}}/resources/lec7_6_435))
+Parameter Estimation Methods, Minimum Prediction Error Paradigm, Maximum Likelihood ({{% resource_link c73a3ab7-a1f9-3e79-5322-3ac3d01550c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +153,7 @@ Parameter Estimation Methods, Minimum Prediction Error Paradigm, Maximum Likelih
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Convergence and Consistency, Informative Data, Convergence to the True Parameters ([PDF]({{< baseurl >}}/resources/lec8_6_435))
+Convergence and Consistency, Informative Data, Convergence to the True Parameters ({{% resource_link bf953352-f781-108b-fd3d-e9939a530164 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +171,7 @@ Convergence and Consistency, Informative Data, Convergence to the True parameter
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Asymptotic Distribution of PEM ([PDF]({{< baseurl >}}/resources/lec9_6_435))
+Asymptotic Distribution of PEM ({{% resource_link 421a9e22-8140-fc8e-4700-2d404223b9bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +189,7 @@ Asymptotic Distribution of PEM (cont.)
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Instrumental Variable Methods, Identification in Closed Loop, Asymptotic Results ([PDF]({{< baseurl >}}/resources/lec10_6_435))
+Instrumental Variable Methods, Identification in Closed Loop, Asymptotic Results ({{% resource_link 7d962ce4-3973-d3a3-1360-1cdd156972ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +207,7 @@ Instrumental Variable Methods, Identification in Closed Loop, Asymptotic Results
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Computation, Levinson Algorithm, Recursive Estimation ([PDF]({{< baseurl >}}/resources/lec11_6_435))
+Computation, Levinson Algorithm, Recursive Estimation ({{% resource_link 953da04a-2e53-2224-4b36-ee28297e2fc9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +225,7 @@ Computation, Levinson Algorithm, Recursive Estimation (cont.)
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Identification in Practice, Error Filtering, Order Estimation, Model Structure Validation, Examples ([PDF - 1.7 MB]({{< baseurl >}}/resources/lec12_6_435))
+Identification in Practice, Error Filtering, Order Estimation, Model Structure Validation, Examples ({{% resource_link b75d29c8-9150-abc5-689f-f619ea4f9aaf "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

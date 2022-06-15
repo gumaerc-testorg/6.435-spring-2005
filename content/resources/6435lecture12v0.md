@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-435-system-identification-spring-2005/46cb15084deea44acfca64cdfdf20973_6435Lecture12v0.ppt
+file: /courses/6-435-system-identification-spring-2005/46cb15084deea44acfca64cdfdf20973_6435Lecture12v0.ppt
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
