@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus provides information about the required textbook, prerequisite,
+  grading policy and outline of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 43c5203a-b427-d508-3bce-2976f137713f
 ---
