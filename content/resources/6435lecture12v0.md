@@ -5,6 +5,7 @@ file: /courses/6-435-system-identification-spring-2005/46cb15084deea44acfca64cdf
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
